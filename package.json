@@ -5,12 +5,9 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "animate.css": "^4.1.1",
-    "gatsby": "^6.0.0",
+    "gatsby": "^1.9.247",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
-    "gatsby-plugin-styled-components": "^1.9.247",
-    "gatsby-plugin-sharp": "^1.9.247",
-    "gatsby-plugin-manifest": "^1.9.247",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^5.2.0",
@@ -30,7 +27,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gatsby-plugin-netlify": "^1.9.247",
     "prettier": "^1.12.0"
   },
   "repository": {
