@@ -30,7 +30,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gatsby-plugin-netlify": "^5.1.0",
+    "gatsby-plugin-netlify": "^1.9.247",
     "prettier": "^1.12.0"
   },
   "repository": {
