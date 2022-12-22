@@ -27,7 +27,7 @@ const SectionCellGroup = styled.div`
   }
 `
 
-const TechPage = () => (
+const AboutPage = () => (
   <div>
     <div className="Hero">
       <div className="HeroGroup">
@@ -81,4 +81,4 @@ const TechPage = () => (
 )
 
 
-export default TechPage
+export default AboutPage

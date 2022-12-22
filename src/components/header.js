@@ -32,7 +32,7 @@ class Header extends React.Component {
         <div className="HeaderGroup">
           <Link to="/"><img src={require('../images/logo-badger.png')}width="40" /></Link>
           <Link to="/">Services</Link>
-          <Link to="/tech">Tech</Link>
+          <Link to="/about">About</Link>
           <Link to="/roadmap">Roadmap</Link>
           <a href="https://slick-moralis.netlify.app"><button>Buy</button></a>
         </div>
