@@ -52,7 +52,7 @@ const AboutPage = () => (
       <div className="CardGroup">
         <a>
         <Card 
-         title="CTO"
+         title="CEO"
          text="Kevin Blancaflor"
          image={require('../images/cto-slick1.png')} />
         </a>
