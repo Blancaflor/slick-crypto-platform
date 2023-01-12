@@ -53,13 +53,13 @@ const AboutPage = () => (
         <a>
         <Card 
          title="CEO"
-         text="Kevin Blancaflor"
+         text="K. Blancaflor"
          image={require('../images/cto-slick1.png')} />
         </a>
         <a>
         <Card 
          title="Influencer"
-         text="Tom Verstaen"
+         text="T. Verstaen"
          image={require('../images/influencer.png')} />
         </a>
       </div>
